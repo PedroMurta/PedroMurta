@@ -1,4 +1,4 @@
-### Pedro Murta Lima - [Future Data Scientist and Systems Analyst] 👋
+### Pedro Murta Lima - [Systems Analyst and Future Data Scientist] 👋
 
 ## I'm a data scientist enthusiast who loves to learn how to create solutions with data and always learn new things!
 
