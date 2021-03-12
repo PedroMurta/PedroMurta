@@ -51,6 +51,7 @@
 * [Analisando os Dados da Violência no Rio de Janeiro](https://bit.ly/2ziAUbj)
 * [Análise COVID-19](https://bityli.com/iz89W)
 * [Detecção de Fraude de Cartão de Crédito](https://bit.ly/2YqrPqy) 
+* [IMDB Recomendations](https://colab.research.google.com/github/PedroMurta/Projetos-Data-Science/blob/master/IMDB_Series.ipynb)
 
 
 
