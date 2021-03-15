@@ -4,8 +4,8 @@
 
 - 💻 I’m currently finishing a postgraduate degree in "data science and big data"
 - 💻 I'm also Graduated in analysis and systems development
-- 📈 I’m constantly learning and Improving my skills 🤣
-- 📊 I’m looking to learn and collaborate with other Data Scientists and developers 
+- 📈 Constantly learning and Improving my skills 🤣
+- 📊 Looking to learn and collaborate with other Data Scientists and developers 
 
 ### Connect with me:
 
