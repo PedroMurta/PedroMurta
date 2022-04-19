@@ -1,9 +1,9 @@
-### Pedro Murta Lima - [Systems Analyst and Future Data Scientist] 👋
+### Pedro Murta Lima - [Systems Analyst and Data Scientist] 👋
 
 ## I'm a data scientist enthusiast who loves to learn how to create solutions with data and always learn new things!
 
-- 💻 I’m currently finishing a postgraduate degree in "data science and big data"
-- 💻 I'm also Graduated in analysis and systems development
+- 💻 I’m currently working as a data engineer"
+- 💻 I'm also Graduated in analysis and systems development and Postgraduate degree in Data Science and Big Data
 - 📈 Constantly learning and Improving my skills 🤣
 - 📊 Looking to learn and collaborate with other Data Scientists and developers 
 
@@ -38,6 +38,9 @@
 
 <img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"/>
 
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> 
 <br />
 <br />
 
@@ -52,6 +55,7 @@
 * [Análise COVID-19](https://bityli.com/iz89W)
 * [Detecção de Fraude de Cartão de Crédito](https://bit.ly/2YqrPqy) 
 * [IMDB Recomendations](https://colab.research.google.com/github/PedroMurta/Projetos-Data-Science/blob/master/IMDB_Series.ipynb)
+* [Web site developed] (bsbinternationalchurch.com)
 
 
 
