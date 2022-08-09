@@ -2,10 +2,10 @@
 
 ## I'm a data scientist enthusiast who loves to learn how to create solutions with data and always learn new things!
 
-- 💻 I’m currently working as a data engineer"
-- 💻 I'm also Graduated in analysis and systems development and Postgraduate degree in Data Science and Big Data
-- 📈 Constantly learning and Improving my skills 🤣
-- 📊 Looking to learn and collaborate with other Data Scientists and developers 
+- 💻 I’m currently working as a data engineer".
+- 💻 I'm also Graduated in analysis and systems development and Postgraduate degree in Data Science and Big Data.
+- 📈 Constantly learning and Improving my skills.
+- 📊 Looking to learn and collaborate with other Data Scientists and developers.
 
 ### Connect with me:
 
@@ -78,8 +78,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-[linkedin]: linkedin.com/in/pedro-murta
 
 
 [![author](https://img.shields.io/badge/author-pedromurta-red.svg)](https://www.linkedin.com/in/pedro-murta/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
