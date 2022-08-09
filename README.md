@@ -9,10 +9,17 @@
 
 ### Connect with me:
 
-[<img align="left"  width="22px" alt="Pedro Murta | Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/pedro-murta/)
+[<img align="left" target="_blank"  width="22px" alt="Pedro Murta | Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/pedro-murta/)
 
 [<img align="left" alt="Pedro Murta | github" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/PedroMurta)
 
+[<a target="_blank" href="https://api.whatsapp.com/send?phone=5561981998275">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>]
+
+[<a target="_blank" href="https://www.instagram.com/ary.clenio/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>] (https://instagram.com/p_edromurta)
 
 <br />
 
@@ -20,7 +27,7 @@
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
 
-<img align ='left' alt="Django"	width='50px' src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
 <img align="left" alt="VScode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
