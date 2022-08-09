@@ -71,7 +71,7 @@
 * [Análise COVID-19](https://bityli.com/iz89W)
 * [Detecção de Fraude de Cartão de Crédito](https://bit.ly/2YqrPqy) 
 * [IMDB Recomendations](https://colab.research.google.com/github/PedroMurta/Projetos-Data-Science/blob/master/IMDB_Series.ipynb)
-* [Web site developed] (http://bsbinternationalchurch.com)
+
 
 
 
