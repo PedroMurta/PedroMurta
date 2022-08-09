@@ -13,13 +13,13 @@
 
 [<img align="left" alt="Pedro Murta | github" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/PedroMurta)
 
-[<a target="_blank" href="https://api.whatsapp.com/send?phone=5561981998275">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>]
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5561981998275">
+  <img align="left" alt="Whatsapp" width="22px" color="green" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
 
-[<a target="_blank" href="https://www.instagram.com/p_edromurta/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>] 
+<a target="_blank" href="https://www.instagram.com/p_edromurta/">
+  <img align="left" alt="Instagram" color="orange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <br />
 
