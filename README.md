@@ -111,7 +111,6 @@
 </p>
 
 <br >
-<br >
 
 <br>
 
@@ -122,6 +121,7 @@
 <br>
 
 <h2 align='center'> 📕 Projects Posts </h2>
+
 <br>
 
 
