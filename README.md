@@ -32,6 +32,7 @@
 </a>
 
 <br>
+
 <br>
 
 ---
@@ -39,7 +40,9 @@
 <br>
 
 <h1 align='center'> 🛠 Languages and Tools: 
+  
 <br>
+  
 <br>
 
 <p align="left" dir="auto">
@@ -134,6 +137,7 @@
 * [IMDB Recomendations](https://colab.research.google.com/github/PedroMurta/Projetos-Data-Science/blob/master/IMDB_Series.ipynb)
 
 <br>
+  
 <br>
 
 <!-- BLOG-POST-LIST:END -->
@@ -143,6 +147,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroMurta&show_icons=true&theme=radical)
+  
 <br>
 
 
