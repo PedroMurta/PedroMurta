@@ -25,7 +25,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="40px" height="40px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
+<img align="left" alt="Python" width="40px" height="40px"  src="(https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 
 <img align="left" alt="Django" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
@@ -33,7 +33,7 @@
 
 <img align="left" alt="Linux" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
-<img align="left" alt="SQL" width="40px" height="40px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />
+
 
 <img align='left' alt='PostgreSQL' width="40px" height="40px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg'/> 
 
