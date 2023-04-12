@@ -1,4 +1,4 @@
-### Pedro Murta Lima - [Systems Analyst and Data Scientist] 👋
+<center> Pedro Murta Lima - [Systems Analyst and Data Scientist] 👋 </center>
 
 ## I'm a data scientist enthusiast who loves to learn how to create solutions with data and always learn new things!
 
