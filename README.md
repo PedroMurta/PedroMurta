@@ -2,10 +2,13 @@
 
 ## I'm a data scientist enthusiast who loves to learn how to create solutions with data and always learn new things!
 
-- 💻 I’m currently working as a data engineer".
-- 💻 I'm also Graduated in analysis and systems development and Postgraduate degree in Data Science and Big Data.
+- 💻 I’m currently working as a data engineer.
+- 🎓 I'm also Graduated in analysis and systems development and Postgraduate degree in Data Science and Big Data.
 - 📈 Constantly learning and Improving my skills.
 - 📊 Looking to learn and collaborate with other Data Scientists and developers.
+- 🚀 Doing MBA in Data Science and Analytics at USP
+
+<br>
 
 ### Connect with me:
 
@@ -20,10 +23,17 @@
 <a target="_blank" href="https://www.instagram.com/p_edromurta/">
   <img align="left" alt="Instagram" color="orange" width="40px" height="40px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br>
+<br>
+<br>
 
-<br />
 
 ### Languages and Tools:
+<br>
+
+
+
+
 
 <img align="left" alt="Python" width="40px" height="40px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 
@@ -70,7 +80,7 @@
 <img align='left' alt="hadoop" width="40px" height="40px"  src="https://camo.githubusercontent.com/55336973a5c752995e40ccec95502a4aa6b3d091ff52741bc59456d61c67b7e5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6170616368655f6861646f6f702f6170616368655f6861646f6f702d69636f6e2e737667" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg">
 
 
----------------------------------------------------
+
 
 
 <img align='left' alt="sqlite" width="40px" height="40px"  src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
@@ -102,13 +112,12 @@
 
 
 
-
 <br />
 <br />
 
 
 ---
-
+<br>
 ### 📕 Projects Posts
 
 <!-- BLOG-POST-LIST:START -->
