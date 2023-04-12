@@ -33,8 +33,6 @@
 
 <img align="left" alt="Linux" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
-
-
 <img align='left' alt='PostgreSQL' width="40px" height="40px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg'/> 
 
 <img align="left" alt="MongoDB" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
@@ -55,9 +53,9 @@
 
 <img align="left" alt="Terminal" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img src="https://camo.githubusercontent.com/55336973a5c752995e40ccec95502a4aa6b3d091ff52741bc59456d61c67b7e5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6170616368655f6861646f6f702f6170616368655f6861646f6f702d69636f6e2e737667" alt="hadoop" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/55336973a5c752995e40ccec95502a4aa6b3d091ff52741bc59456d61c67b7e5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6170616368655f6861646f6f702f6170616368655f6861646f6f702d69636f6e2e737667" alt="hadoop" width="40" height="40" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg">
 
-<img src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" alt="sqlite" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" alt="sqlite" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" >
 
 <img align="left" alt="Markdown" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" />
 
