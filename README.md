@@ -72,7 +72,7 @@
 
 <img align="left" alt="Bash" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
 
-<img align="left" alt="Flask" width="40px" height="40px" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
+<img align="left" alt="Flask" width="40px" height="40px" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" />
 
 
 
