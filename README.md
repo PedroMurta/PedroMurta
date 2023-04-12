@@ -59,6 +59,28 @@
 
 <img src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" alt="sqlite" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="max-width: 100%;">
 
+<img align="left" alt="Markdown" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" />
+
+<img align="left" alt="Numpy" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
+
+<img align="left" alt="Pandas" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" />
+
+
+<img align="left" alt="Ubuntu" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+
+<img align="left" alt="Anaconda" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" />
+
+<img align="left" alt="Bash" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+
+<img align="left" alt="Flask" width="40px" height="40px" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
+
+
+
+
+
+
+
+
 <br />
 <br />
 
