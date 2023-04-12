@@ -16,10 +16,10 @@
 ---
 <br>
 
-## Connect with me:
+<h1 align='center'> Connect with me</h1>
 
 <a>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-murta/" height="30" width="40" alt='https://github.com/PedroMurta'/>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-murta/" height="40" width="40" alt='https://github.com/PedroMurta'/>
 
 <img  align='center' width="40px" height="40px"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" >
 
@@ -37,7 +37,7 @@
 ---
 <br>
 
-## 🛠 Languages and Tools:
+<h1 align='center'> 🛠 Languages and Tools: 
 <br>
 <br>
 
@@ -117,10 +117,11 @@
 ---
 
 
+
 <br>
+<h2 align='center'> 📕 Projects Posts </h2>
 <br>
 
-## 📕 Projects Posts
 
 <!-- BLOG-POST-LIST:START -->
 * [Analisando os Dados do Airbnb da cidade de Dublin](https://bit.ly/2XyjFfs) 
@@ -129,8 +130,8 @@
 * [Detecção de Fraude de Cartão de Crédito](https://bit.ly/2YqrPqy) 
 * [IMDB Recomendations](https://colab.research.google.com/github/PedroMurta/Projetos-Data-Science/blob/master/IMDB_Series.ipynb)
 
-
-
+<br>
+<br>
 
 <!-- BLOG-POST-LIST:END -->
 
