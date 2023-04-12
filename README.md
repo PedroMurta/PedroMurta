@@ -35,6 +35,7 @@
 <br>
 
 ---
+
 <br>
 
 <h1 align='center'> 🛠 Languages and Tools: 
@@ -119,8 +120,10 @@
 
 
 <br>
+
 <h2 align='center'> 📕 Projects Posts </h2>
 <br>
+
 
 
 <!-- BLOG-POST-LIST:START -->
